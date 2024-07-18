@@ -14,7 +14,7 @@ Follow the steps below to add a new Defi project：
     "category": "DEX",
     "poolAddresses": [
         "TKcEU8ekq2ZoFzLSGFYCUY6aocJBX9X31b",
-        "TAkrcKsS5FW9f3ZfzvWy6Zvsz9uEjUxPoV"
+TCVYhgusHpNY7cQDyXFtfh9KQzeYDHbHuE1
     ]
 }
 ```
@@ -68,11 +68,11 @@ https://coinmarketcap.com/currencies/sun-token
 SUN is first integrated platform for stablecoin swap, stake-mining and self-governance on TRON.
 
 ##### Token address and ticker if any:
-TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S
+TCVYhgusHpNY7cQDyXFtfh9KQzeYDHbHuE
 
 ##### Pool addresses:
-TKcEU8ekq2ZoFzLSGFYCUY6aocJBX9X31b, TAkrcKsS5FW9f3ZfzvWy6Zvsz9uEjUxPoV.
-
+TKcEU8ekq2ZoFzLSGFYCUY6aocJBX9X31b
+TCVYhgusHpNY7cQDyXFtfh9KQzeYDHbHuE
 ##### Category (Yield/DEX/Lending/Minting/Assets/Insurance/Options/Indexes/Staking) *Please choose only one:
 DEX
 
